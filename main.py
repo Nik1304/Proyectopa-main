@@ -20,7 +20,7 @@ def main():
         elif opcion == "3":
             ver_inventario()
         elif opcion == "4":
-            print("Saliendo del sistema...")
+            print("Saliendo Saliendo...")
             break
         else:
             print("Opción no válida. Intente nuevamente.")
